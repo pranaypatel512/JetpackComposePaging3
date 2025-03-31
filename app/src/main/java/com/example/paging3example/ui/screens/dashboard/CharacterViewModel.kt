@@ -1,4 +1,4 @@
-package com.example.paging3example.presentation.mvi
+package com.example.paging3example.ui.screens.dashboard
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

@@ -2,7 +2,7 @@ package com.example.paging3example.di
 
 import com.example.paging3example.data.network.RickAndMortyApi
 import com.example.paging3example.data.repository.CharacterRepository
-import com.example.paging3example.presentation.mvi.CharacterViewModel
+import com.example.paging3example.ui.screens.dashboard.CharacterViewModel
 import org.koin.dsl.module
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

@@ -1,4 +1,4 @@
-package com.example.paging3example.presentation.ui.screens
+package com.example.paging3example.ui.screens.dashboard
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.*
@@ -12,8 +12,6 @@ import androidx.compose.ui.unit.dp
 import androidx.paging.LoadState
 import androidx.paging.compose.collectAsLazyPagingItems
 import coil.compose.rememberAsyncImagePainter
-import com.example.paging3example.presentation.mvi.CharacterIntent
-import com.example.paging3example.presentation.mvi.CharacterViewModel
 import com.example.paging3example.data.models.Character
 
 @Composable
